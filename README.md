@@ -6,7 +6,7 @@
 
 Projeto contruído num curso de HTML e CSS da Alura.
 
-[Clique aqui para acessar]![image](https://github.com/v1fonseca911/AluraPlus/assets/113269524/25ddc2ea-09ca-4245-b05f-1f68d98cc19a)
+[Clique aqui para acessar](https://github.com/v1fonseca911/AluraPlus/assets/113269524/25ddc2ea-09ca-4245-b05f-1f68d98cc19a)
 
 
 ## Tecnologias
