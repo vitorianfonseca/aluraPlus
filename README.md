@@ -6,7 +6,8 @@
 
 Projeto contruído num curso de HTML e CSS da Alura.
 
-[Clique aqui para acessar](alura-plus-two-lovat.vercel.app)
+[Clique aqui para acessar] (alura-plus-two-lovat.vercel.app)
+
 
 
 ## Tecnologias
