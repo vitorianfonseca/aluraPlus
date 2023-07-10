@@ -6,7 +6,7 @@
 
 Projeto contruído num curso de HTML e CSS da Alura.
 
-[Clique aqui para acessar] (alura-plus-two-lovat.vercel.app)
+[Clique aqui para acessar](https://alura-plus-git-main-v1fonseca911.vercel.app/)
 
 
 
